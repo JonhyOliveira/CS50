@@ -1,0 +1,12 @@
+sort1 uses: insertion sort
+
+How do you know?: it's not merge sort due to time complexity and not bubble sort due to disparities
+in execution time based on the state of the list.
+
+sort2 uses: merge sort
+
+How do you know?: out of the 3 it's the fastest sorting algorithm
+
+sort3 uses: bubble sort
+
+How do you know?: execution time is stable for the same amount of items to sort, regardless of arrangment.
